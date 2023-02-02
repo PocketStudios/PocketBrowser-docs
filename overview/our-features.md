@@ -1,17 +1,9 @@
 # ✨ Our Features
 
-{% hint style="info" %}
-**GitBook tip:** A succinct video overview is a great way to introduce folks to your product. Embed a Loom, Vimeo or YouTube video and you're good to go! We love this video from the fine folks at Loom as a perfect example of a succinct feature overview.
-{% endhint %}
-
-## Awesome Feature One
-
-Get amazing things done with awesome feature one. But remember that awesome feature two and three exist too. In fact, Awesome Product is full of awesome features.
-
-![](https://images.unsplash.com/photo-1555774698-0b77e0d5fac6?crop=entropy\&cs=tinysrgb\&fm=jpg\&ixid=MnwxOTcwMjR8MHwxfHNlYXJjaHwyfHxhcHB8ZW58MHx8fHwxNjYwNTgzMzQz\&ixlib=rb-1.2.1\&q=80)
-
-## Awesome Feature Two
-
-Get amazing things done with awesome feature two. But remember that awesome feature one and three exist too. In fact, Awesome Product is full of awesome features.
-
-![](https://images.unsplash.com/photo-1569144157591-c60f3f82f137?crop=entropy\&cs=tinysrgb\&fm=jpg\&ixid=MnwxOTcwMjR8MHwxfHNlYXJjaHwxfHxmZWF0dXJlfGVufDB8fHx8MTY2MDU4MzM1OQ\&ixlib=rb-1.2.1\&q=80)
+* ****:rocket: **Performance:** our browser uses very low RAM and CPU. Some experiments show 4x less RAM than Chrome!
+* ****:no\_entry: **Ad Block:** It has built-in Ad block and most importantly, it blocks trackers and analytics. The result is getting your privacy back!
+* ****:closed\_lock\_with\_key: **Security:** We have 3 different security modes. From basic to strict, It helps save you when you got on the wrong route.
+* ****:axe: **Tools:** It has the essentials and some powerful tools like Chromecast, Find in page, etc. if you miss something we'll add it asap. Just contact us!
+* ****:white\_check\_mark: **Easy to use:** It's very easy to use. Very clear settings and easy to use tools with great information.
+* ****:projector: **Video Downloader:** it's still in-progress, but our browser can detect videos and download them.
+* :heart: **Open Source:** You can view the browser code or built it yourself on GitHub.
