@@ -2,7 +2,7 @@
 
 To change your home page, click on the **Menu** button, go to **Settings**, then **Home Page.** And choose your home page:
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 ### Custom Home:
 

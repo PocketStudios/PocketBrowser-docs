@@ -2,7 +2,7 @@
 
 To change your search engine, click on the **Menu** button, go to **Settings**, then **Search Engine.** And choose your search engine:
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
 ### Custom Engine:
 
