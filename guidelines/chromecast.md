@@ -20,5 +20,5 @@ You can then have control of the cast. You can change the volume or pause/stop t
 
 In this case make sure your device is turned on. And try casting from a different device.
 
-If the device is working, try restart the browser. Otherwise contact us for support.
+If the device is working, try restart the browser. Otherwise [contact us](../overview/feedback.md) for support.
 
