@@ -11,7 +11,7 @@ We don't currently support custom home pages. If you want to have a custom home 
 * Open your file manager.
 * Go to the browser configuration folder:
 
-**Windows:** %appdata%\pocket-browser\\
+**Windows:** C:\Users\\{User}\AppData\Local\pocket-browser\\
 
 **Linux:** \~/.config/pocket-browser
 

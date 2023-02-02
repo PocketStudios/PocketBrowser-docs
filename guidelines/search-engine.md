@@ -6,12 +6,12 @@ To change your search engine, click on the **Menu** button, go to **Settings**, 
 
 ### Custom Engine:
 
-We don't currently support custom search engines. If you want to have a custom search engine you'll have to do it manually. If you think that's an important feature, send [feedback](../overview/feedback.md).
+We don't currently support custom search engines. If you want to have a custom search engine you'll have to do it manually. If you think that's an important feature, open an issue on [GitHub](https://github.com/PocketStudios/Pocket-Browser/issues).
 
 * Open your file manager.
 * Go to the browser configuration folder:
 
-**Windows:** %appdata%\pocket-browser\\
+**Windows:** C:\Users\\{User}\AppData\Local\pocket-browser\\
 
 **Linux:** \~/.config/pocket-browser
 
