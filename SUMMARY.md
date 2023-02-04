@@ -17,6 +17,7 @@
 * [Ad Block](guidelines/ad-block.md)
 * [QR Code](guidelines/qr-code.md)
 * [Error](guidelines/error.md)
+* [Video Downloader](guidelines/video-downloader.md)
 
 ## API
 
